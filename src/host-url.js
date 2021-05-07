@@ -1,1 +1,1 @@
-module.exports = 'http://localhost:3000';
+module.exports = 'https://contact3058-backend.herokuapp.com';
